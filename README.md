@@ -12,7 +12,7 @@ Bilgisayar Mühendisliği(İÖ)
 Kocaeli Üniversitesi
 Mühendislik Fakültesi
 Bilgisayar Mühendisliği(İÖ)
-19020202124@ kocaeli.edu.tr
+19020202124@kocaeli.edu.tr
 
 
 Özet: Bu çalışmada Minimum Enclosing Circle Probleminin algoritmasını oluşturulmuştur. Proje oluşturulması için Codeblocks IDE’si ve Allegro kütüphanesi kullanılmıştır. Projede; kullanıcı tarafından N nokta verildiğinde ,tam sayı koordinatlı iki boyutlu düzlemde tüm noktaları içeren ve minimum çevreleyen yarıçaplı çember çizdirilmektedir.
